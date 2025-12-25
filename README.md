@@ -24,6 +24,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
+
 **To measure IL**
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/a7e7b2b1-11f0-43f0-aec0-58b1e7a8d29c" />
 
@@ -45,6 +46,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 
 **TABULAR COLUMN: 1**
+
 To measure IL
 <img width="1280" height="541" alt="image" src="https://github.com/user-attachments/assets/d11337d0-3d35-432f-88ad-2340c4b4df6d" />
 
@@ -62,6 +64,8 @@ To measure IN or Isc
 <img width="1280" height="694" alt="image" src="https://github.com/user-attachments/assets/8ef0e928-1f3e-47ba-809f-fa0690d12993" />
 
 	
+
+
 **MODEL CALCULATION:**
 <img width="1600" height="676" alt="image" src="https://github.com/user-attachments/assets/be441813-df18-4d6d-85b6-9d876cf0d702" />
 
